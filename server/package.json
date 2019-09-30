@@ -15,8 +15,11 @@
     "cors": "^2.8.5",
     "eslint-plugin-dependencies": "^2.4.0",
     "express": "^4.17.1",
+    "joi": "^14.3.1",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.2",
+    "sequelize": "^5.19.1",
+    "sqlite3": "^4.1.0",
     "tsutils": "^3.17.1",
     "typescript": "^3.6.3"
   },
