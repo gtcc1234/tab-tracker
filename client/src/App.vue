@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+  <v-app dark>
+  <router-view></router-view>
+</v-app>
 </template>
 
 <script>
