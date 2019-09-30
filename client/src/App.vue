@@ -1,6 +1,8 @@
 <template>
   <v-app dark>
-  <router-view></router-view>
+  <main>
+  <router-view/>
+</main>
 </v-app>
 </template>
 
